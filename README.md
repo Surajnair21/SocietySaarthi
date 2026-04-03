@@ -11,7 +11,7 @@
 
 **Team Members:**  
 - Suraj Nair  
-- Nilesh Yadav  
+- Nilesh Sharma  
 - Shourya Prajapat  
 - Riddhi Khandelwal  
 
